@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_loffredo_ds_1000_250.png" >
+  <img src="banner_loffredo.png" >
 </p>
 
 # Raffaela Loffredo

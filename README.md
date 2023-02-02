@@ -12,6 +12,7 @@ Throughout my career I have worked in different types of companies such as NGOs,
 
 **Contact me:**
 * [LinkedIn](https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US)
+* [Medium](https://medium.com/@loffredo.ds)
 * [Instagram](https://www.instagram.com/loffredo.ds/)
 
 

@@ -10,13 +10,13 @@ Throughout my career I have worked in different types of companies such as NGOs,
 
 **Background in:** Python, SQL, Excel, Solidity, Cloud Computing, Tableau, Power BI, Statistics, Data Visualization, Academic Research.
 
-**Contact me:**
+**Contact me**
 * [LinkedIn](https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US)
 * [Medium](https://medium.com/@loffredo.ds)
 * [Instagram](https://www.instagram.com/loffredo.ds/)
 
 
-## Projetos:
+## Projects
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY

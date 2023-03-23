@@ -7,18 +7,23 @@
 _Master in Environmental Management from Positivo University and Bachelor of Law from UniCuritiba_
 
 Throughout my career I have worked in different types of companies such as NGOs, government, start-up and multinational. As a result, I have a wide knowledge of business that helps me as a data scientist to more easily identify and solve problems. I also try to find points that minimize costs, as well as create models that increase revenues, in order to extract meaningful information that assists in decision making and makes the company more profitable. For this, I always seek to improve my knowledge in business, data analysis and data visualization to build better analytical models and present them in increasingly sophisticated reports.
+<br/>
+<br/>
 
 **Background in:** Python, SQL, Excel, Solidity, Cloud Computing, Tableau, Power BI, Statistics, Data Visualization, Academic Research.
+<br/>
+<br/>
 
 **Contact me**
 * [Website](https://sites.google.com/view/loffredo/)
 * [LinkedIn](https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US)
 * [Medium](https://medium.com/@loffredo.ds)
 * [Instagram](https://www.instagram.com/loffredo.ds/)
-
+<br/>
 
 ## Projects
 * **[Airbnb Data Analysis for New York City](https://github.com/raffaloffredo/airbnb_new_york)**
+<br/>
 
 ## Articles
 <img align="center" alt="EN" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-united-states_1f1fa-1f1f8.png">
@@ -28,6 +33,7 @@ Throughout my career I have worked in different types of companies such as NGOs,
 * **[5 Organization tools + 1 Extra infallible tip to help you accomplish your goals!](https://www.linkedin.com/pulse/5-organization-tools-1-extra-infallible-tip-help-you-your-loffredo/)**
 * **[7 lessons I learned from the book: The Ascent of Money](https://www.linkedin.com/pulse/7-lessons-i-learned-from-book-ascent-money-raffaela-loffredo/)**
 * **[How to achieve your goals?](https://medium.com/@loffredo.ds/how-to-achieve-your-goals-9e5aa7de8a2d)**
+<br/>
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png">
 

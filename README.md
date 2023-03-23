@@ -37,4 +37,5 @@ Throughout my career I have worked in different types of companies such as NGOs,
 * **[Blockchain e criptomoedas podem ser implementadas em sistemas públicos?](https://medium.com/@loffredo.ds/curso-defi-aula-8-fcf754d23455)**
 * **[7 aprendizados do livro: A Ascensão do dinheiro](https://medium.com/@loffredo.ds/7-aprendizados-do-livro-a-ascens%C3%A3o-do-dinheiro-79cb37b7de6a)**
 * **[5 Ferramentas de organização + 1 dica extra infalível para ajudar você a conquistar seus objetivos!](https://medium.com/@loffredo.ds/5-ferramentas-de-organiza%C3%A7%C3%A3o-1-dica-extra-infal%C3%ADvel-para-ajudar-voc%C3%AA-a-conquistar-seus-objetivos-a90dcb1505c4)**
+* **[Como atingir os seus objetivos?](https://www.linkedin.com/pulse/como-atingir-os-seus-objetivos-raffaela-loffredo/)**
 * **[O consumo de margarina causa divórcio!](https://medium.com/@loffredo.ds/o-consumo-de-margarina-causa-div%C3%B3rcio-e5c2771f341f)**

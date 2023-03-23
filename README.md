@@ -11,6 +11,7 @@ Throughout my career I have worked in different types of companies such as NGOs,
 **Background in:** Python, SQL, Excel, Solidity, Cloud Computing, Tableau, Power BI, Statistics, Data Visualization, Academic Research.
 
 **Contact me**
+* [Website](https://sites.google.com/view/loffredo/)
 * [LinkedIn](https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US)
 * [Medium](https://medium.com/@loffredo.ds)
 * [Instagram](https://www.instagram.com/loffredo.ds/)
@@ -26,10 +27,14 @@ Throughout my career I have worked in different types of companies such as NGOs,
 * **[Margarine consumption leads to divorce!](https://www.linkedin.com/pulse/margarine-consumption-leads-divorce-raffaela-loffredo/)**
 * **[5 Organization tools + 1 Extra infallible tip to help you accomplish your goals!](https://www.linkedin.com/pulse/5-organization-tools-1-extra-infallible-tip-help-you-your-loffredo/)**
 * **[7 lessons I learned from the book: The Ascent of Money](https://www.linkedin.com/pulse/7-lessons-i-learned-from-book-ascent-money-raffaela-loffredo/)**
+* **[How to achieve your goals?](https://medium.com/@loffredo.ds/how-to-achieve-your-goals-9e5aa7de8a2d)**
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png">
 
 * **[O que suas compras online tem a ver com o Teorema de Pitágoras?](https://www.linkedin.com/pulse/o-que-suas-compras-online-tem-ver-com-teorema-de-raffaela-loffredo/)**
 * **[Uniswap V3: uma jogada de mestre](https://www.linkedin.com/pulse/uniswap-v3-uma-jogada-de-mestre-raffaela-loffredo-gutierrez/)**
 * **[8 razões porque você deveria aprender Python e 2 cursos fantásticos para começar seu aprendizado ainda hoje!](https://medium.com/@loffredo.ds/8-raz%C3%B5es-por-qu%C3%AA-voc%C3%AA-deveria-aprender-python-e-2-cursos-fant%C3%A1sticos-para-come%C3%A7ar-seu-aprendizado-f6a57fc39d82)**
-* **[8 razões porque você deveria aprender Python e 2 cursos fantásticos para começar seu aprendizado ainda hoje!](https://medium.com/@loffredo.ds/8-raz%C3%B5es-por-qu%C3%AA-voc%C3%AA-deveria-aprender-python-e-2-cursos-fant%C3%A1sticos-para-come%C3%A7ar-seu-aprendizado-f6a57fc39d82)**
+* **[Blockchain e criptomoedas podem ser implementadas em sistemas públicos?](https://medium.com/@loffredo.ds/curso-defi-aula-8-fcf754d23455)**
+* **[7 aprendizados do livro: A Ascensão do dinheiro](https://medium.com/@loffredo.ds/7-aprendizados-do-livro-a-ascens%C3%A3o-do-dinheiro-79cb37b7de6a)**
+* **[5 Ferramentas de organização + 1 dica extra infalível para ajudar você a conquistar seus objetivos!](https://medium.com/@loffredo.ds/5-ferramentas-de-organiza%C3%A7%C3%A3o-1-dica-extra-infal%C3%ADvel-para-ajudar-voc%C3%AA-a-conquistar-seus-objetivos-a90dcb1505c4)**
+* **[O consumo de margarina causa divórcio!](https://medium.com/@loffredo.ds/o-consumo-de-margarina-causa-div%C3%B3rcio-e5c2771f341f)**

@@ -60,4 +60,5 @@ Throughout my career I have worked in different types of companies such as NGOs,
 * **[Você sabe a melhor forma de mostrar os seus resultados? Conheça as 5 principais maneiras de apresentar dados!](https://medium.com/@loffredo.ds/você-sabe-a-melhor-forma-de-mostrar-os-seus-resultados-7c2cc09ed499)**
 *  **[Artigo _completo_ do projeto sobre COVID-19](https://medium.com/@loffredo.ds/ci%C3%AAncia-de-dados-aplicada-estudo-sobre-o-covid-19-no-brasil-e-no-mundo-e4a8996a75ab)**
 *  **[Artigo _resumido_ do projeto sobre COVID-19](https://www.linkedin.com/pulse/estudo-atualizado-do-covid-19-brasil-e-nomundo-raffaela-loffredo/)**
+*  **[Como criar um gráfico animado com o Bar Chart Race](https://medium.com/@loffredo.ds/como-criar-um-gr%C3%A1fico-animado-com-o-bar-chart-race-878a0e693246)**
 <br/>

@@ -31,6 +31,7 @@ Throughout my career I have worked in different types of companies such as NGOs,
 
 ## Projects
 * **[Airbnb Data Analysis for New York City](https://github.com/raffaloffredo/airbnb_new_york)**
+* **[An updated study of COVID-19 in Brazil and the world](https://github.com/raffaloffredo/covid_2023)**
 <br/>
 
 ## Articles

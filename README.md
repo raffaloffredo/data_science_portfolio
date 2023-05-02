@@ -43,6 +43,8 @@ Throughout my career I have worked in different types of companies such as NGOs,
 * **[7 lessons I learned from the book: The Ascent of Money](https://www.linkedin.com/pulse/7-lessons-i-learned-from-book-ascent-money-raffaela-loffredo/)**
 * **[How to achieve your goals?](https://medium.com/@loffredo.ds/how-to-achieve-your-goals-9e5aa7de8a2d)**
 *  **[Do you know the best way to show your results? Get to know the top 5 ways to present data!](https://www.linkedin.com/pulse/do-you-know-best-way-show-your-results-get-top-5-ways-loffredo/)**
+*  **[Complete Article about COVID-19 project](https://medium.com/@loffredo.ds/data-science-applied-a-covid-19-study-on-brazil-and-the-world-8376407cc672)**
+*  **[Summarized Article about COVID-19 project](https://www.linkedin.com/pulse/updated-study-covid-19-brazil-worldwide-raffaela-loffredo/)**
 <br/>
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png">
@@ -56,3 +58,6 @@ Throughout my career I have worked in different types of companies such as NGOs,
 * **[Como atingir os seus objetivos?](https://www.linkedin.com/pulse/como-atingir-os-seus-objetivos-raffaela-loffredo/)**
 * **[O consumo de margarina causa divórcio!](https://medium.com/@loffredo.ds/o-consumo-de-margarina-causa-div%C3%B3rcio-e5c2771f341f)**
 * **[Você sabe a melhor forma de mostrar os seus resultados? Conheça as 5 principais maneiras de apresentar dados!](https://medium.com/@loffredo.ds/você-sabe-a-melhor-forma-de-mostrar-os-seus-resultados-7c2cc09ed499)**
+*  **[Artigo completo do projeto sobre COVID-19](https://medium.com/@loffredo.ds/ci%C3%AAncia-de-dados-aplicada-estudo-sobre-o-covid-19-no-brasil-e-no-mundo-e4a8996a75ab)**
+*  **[Artigo resumido do projeto sobre COVID-19](https://www.linkedin.com/pulse/estudo-atualizado-do-covid-19-brasil-e-nomundo-raffaela-loffredo/)**
+<br/>

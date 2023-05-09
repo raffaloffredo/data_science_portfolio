@@ -61,4 +61,5 @@ Throughout my career I have worked in different types of companies such as NGOs,
 *  **[Artigo _completo_ do projeto sobre COVID-19](https://medium.com/@loffredo.ds/ci%C3%AAncia-de-dados-aplicada-estudo-sobre-o-covid-19-no-brasil-e-no-mundo-e4a8996a75ab)**
 *  **[Artigo _resumido_ do projeto sobre COVID-19](https://www.linkedin.com/pulse/estudo-atualizado-do-covid-19-brasil-e-nomundo-raffaela-loffredo/)**
 *  **[Como criar um gráfico animado com o Bar Chart Race](https://medium.com/@loffredo.ds/como-criar-um-gr%C3%A1fico-animado-com-o-bar-chart-race-878a0e693246)**
+*  **[Precisa de motivação para estudar? Veja isso!](https://www.linkedin.com/pulse/precisa-de-motiva%25C3%25A7%25C3%25A3o-para-estudar-veja-isso-raffaela-loffredo/)**
 <br/>

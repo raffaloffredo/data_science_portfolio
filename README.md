@@ -56,6 +56,7 @@ Throughout my career I have worked in different types of companies such as NGOs,
 * **[7 aprendizados do livro: A Ascensão do dinheiro](https://medium.com/@loffredo.ds/7-aprendizados-do-livro-a-ascens%C3%A3o-do-dinheiro-79cb37b7de6a)**
 * **[5 Ferramentas de organização + 1 dica extra infalível para ajudar você a conquistar seus objetivos!](https://medium.com/@loffredo.ds/5-ferramentas-de-organiza%C3%A7%C3%A3o-1-dica-extra-infal%C3%ADvel-para-ajudar-voc%C3%AA-a-conquistar-seus-objetivos-a90dcb1505c4)**
 * **[Como atingir os seus objetivos?](https://www.linkedin.com/pulse/como-atingir-os-seus-objetivos-raffaela-loffredo/)**
+*  **[Crie a sua criptomoeda em menos de 7 minutos!](https://www.linkedin.com/pulse/crie-sua-criptomoeda-em-menos-de-7-minutos-raffaela-loffredo/)**
 * **[O consumo de margarina causa divórcio!](https://medium.com/@loffredo.ds/o-consumo-de-margarina-causa-div%C3%B3rcio-e5c2771f341f)**
 * **[Você sabe a melhor forma de mostrar os seus resultados? Conheça as 5 principais maneiras de apresentar dados!](https://medium.com/@loffredo.ds/você-sabe-a-melhor-forma-de-mostrar-os-seus-resultados-7c2cc09ed499)**
 *  **[Artigo _completo_ do projeto sobre COVID-19](https://medium.com/@loffredo.ds/ci%C3%AAncia-de-dados-aplicada-estudo-sobre-o-covid-19-no-brasil-e-no-mundo-e4a8996a75ab)**

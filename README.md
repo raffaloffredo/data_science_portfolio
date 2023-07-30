@@ -14,24 +14,46 @@
 
 _Master in Environmental Management from Positivo University and Bachelor of Law from UniCuritiba_
 
-Throughout my career I have worked in different types of companies such as NGOs, government, start-up and multinational. As a result, I have a wide knowledge of business that helps me as a data scientist to more easily identify and solve problems. I also try to find points that minimize costs, as well as create models that increase revenues, in order to extract meaningful information that assists in decision making and makes the company more profitable. For this, I always seek to improve my knowledge in business, data analysis and data visualization to build better analytical models and present them in increasingly sophisticated reports.
+Throughout my career, I have worked in different types of companies such as NGOs, governments, start-ups, and multinationals. As a result, I have a vast knowledge of business that helps me as a data scientist to more easily identify and solve problems. I also find points that minimize costs and create models that increase revenues, in order to extract meaningful information that assists in decision-making and makes the company more profitable. For this, I always seek to improve my knowledge in business, data analysis, and data visualization to build better analytical models and present them in increasingly sophisticated reports.
 <br/>
 <br/>
 
-**Background in:** Python, SQL, Excel, Solidity, Cloud Computing, Tableau, Power BI, Statistics, Data Visualization, Academic Research.
+**Background** 
+<br/>
+Statistics
+—  Data Visualization
+—  Academic Research
 <br/>
 <br/>
 
-**Contact me**
-* [Website](https://sites.google.com/view/loffredo/)
-* [LinkedIn](https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US)
-* [Medium](https://medium.com/@loffredo.ds)
-* [Instagram](https://www.instagram.com/loffredo.ds/)
+**Tools**
+<br/>
+Jupyter Notebook
+—  Pandas
+—  Numpy
+—  Matplotlib
+—  Seaborn
+—  Scikit-Learn
+—  Tensor Flow
+—  Keras
+—  Advanced Excel
+—  SQL
+—  Power BI
+—  Tableau
+—  Looker
+<br/>
 <br/>
 
 ## Projects
+### Power BI
+
+
+### Data Exploring, Cleaning, and Visualization
 * **[Airbnb Data Analysis for New York City](https://github.com/raffaloffredo/airbnb_new_york)**
 * **[An updated study of COVID-19 in Brazil and the world](https://github.com/raffaloffredo/covid_2023)**
+<br/>
+
+### Machine Learning Techniques
 * **[Credit card fraud detection](https://github.com/raffaloffredo/fraud_detection)**
 <br/>
 
@@ -66,3 +88,10 @@ Throughout my career I have worked in different types of companies such as NGOs,
 *  **[Precisa de motivação para estudar? Veja isso!](https://www.linkedin.com/pulse/precisa-de-motiva%25C3%25A7%25C3%25A3o-para-estudar-veja-isso-raffaela-loffredo/)**
 *  **[Canvas de Carreira: um poderoso aliado para atingir seus objetivos profissionais](https://www.linkedin.com/pulse/canvas-de-carreira-um-poderoso-aliado-para-atingir-seus-loffredo/?trackingId=7hs4XJQtSoampdb%2F1pbbsQ%3D%3D)**
 <br/>
+<br/>
+
+## Let's Talk
+* [Website](https://sites.google.com/view/loffredo/)
+* [LinkedIn](https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US)
+* [Medium](https://medium.com/@loffredo.ds)
+* [Instagram](https://www.instagram.com/loffredo.ds/)

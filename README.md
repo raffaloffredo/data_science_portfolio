@@ -45,8 +45,8 @@ Jupyter Notebook
 <br/>
 
 ## Projects
-### Power BI
-
+### Power BI (_uploading_)
+<br/>
 
 ### Data Exploring, Cleaning, and Visualization
 * **[Airbnb Data Analysis for New York City](https://github.com/raffaloffredo/airbnb_new_york)**

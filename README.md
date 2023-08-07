@@ -47,6 +47,7 @@ Jupyter Notebook
 ## Projects
 ### Power BI
 * **[Global Sales Dashboard](https://github.com/raffaloffredo/dashboard_vendas_globais/)**
+* **[Sales Dashboard](https://github.com/raffaloffredo/dashboard_vendas)**
 <br/>
 
 ### Data Exploring, Cleaning, and Visualization

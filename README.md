@@ -45,9 +45,8 @@ Jupyter Notebook
 <br/>
 
 ## Projects
-### Power BI
-* **[Global Sales Dashboard](https://github.com/raffaloffredo/dashboard_vendas_globais/)**
-* **[Sales Dashboard](https://github.com/raffaloffredo/dashboard_vendas)**
+### Machine Learning Techniques
+* **[Credit card fraud detection](https://github.com/raffaloffredo/fraud_detection)**
 <br/>
 
 ### Data Exploring, Cleaning, and Visualization
@@ -55,9 +54,12 @@ Jupyter Notebook
 * **[An updated study of COVID-19 in Brazil and the world](https://github.com/raffaloffredo/covid_2023)**
 <br/>
 
-### Machine Learning Techniques
-* **[Credit card fraud detection](https://github.com/raffaloffredo/fraud_detection)**
+
+### Power BI
+* **[Sales Dashboard](https://github.com/raffaloffredo/dashboard_vendas)**
+* **[Global Sales Dashboard](https://github.com/raffaloffredo/dashboard_vendas_globais/)**
 <br/>
+
 
 ## Articles
 <img align="center" alt="EN" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-united-states_1f1fa-1f1f8.png">

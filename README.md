@@ -83,8 +83,9 @@ Jupyter Notebook
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png">
 
-*  **[Como a ciência de dados pode tornar a sua empresa mais lucrativa?](https://www.linkedin.com/pulse/como-ci%25C3%25AAncia-de-dados-pode-tornar-sua-empresa-mais-raffaela-loffredo/?trackingId=9KS4PEk0S%2Few5%2B0GHC47Uw%3D%3D)**
-*  **[Afinal, quais as diferenças entre engenheiro, analista e cientista de dados?](https://www.linkedin.com/pulse/afinal-quais-diferen%25C3%25A7as-entre-engenheiro-analista-e-de-loffredo/?trackingId=9KS4PEk0S%2Few5%2B0GHC47Uw%3D%3D)**
+* **[Como a ciência de dados pode tornar a sua empresa mais lucrativa?](https://www.linkedin.com/pulse/como-ci%25C3%25AAncia-de-dados-pode-tornar-sua-empresa-mais-raffaela-loffredo/?trackingId=9KS4PEk0S%2Few5%2B0GHC47Uw%3D%3D)**
+* **[Afinal, quais as diferenças entre engenheiro, analista e cientista de dados?](https://www.linkedin.com/pulse/afinal-quais-diferen%25C3%25A7as-entre-engenheiro-analista-e-de-loffredo/?trackingId=9KS4PEk0S%2Few5%2B0GHC47Uw%3D%3D)**
+* **[Cambridge Analytica x Privacidade dos Dados](https://www.linkedin.com/pulse/cambridge-analytica-x-privacidade-dos-dados-raffaela-loffredo%3FtrackingId=S2IB9pN%252BSQaxwbYtj6q8Hg%253D%253D/?trackingId=S2IB9pN%2BSQaxwbYtj6q8Hg%3D%3D)**
 * **[O que suas compras online tem a ver com o Teorema de Pitágoras?](https://www.linkedin.com/pulse/o-que-suas-compras-online-tem-ver-com-teorema-de-raffaela-loffredo/)**
 * **[Uniswap V3: uma jogada de mestre](https://www.linkedin.com/pulse/uniswap-v3-uma-jogada-de-mestre-raffaela-loffredo-gutierrez/)**
 * **[8 razões porque você deveria aprender Python e 2 cursos fantásticos para começar seu aprendizado ainda hoje!](https://medium.com/@loffredo.ds/8-raz%C3%B5es-por-qu%C3%AA-voc%C3%AA-deveria-aprender-python-e-2-cursos-fant%C3%A1sticos-para-come%C3%A7ar-seu-aprendizado-f6a57fc39d82)**

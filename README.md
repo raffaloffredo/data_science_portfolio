@@ -56,6 +56,7 @@ Jupyter Notebook
 
 
 ### Power BI
+* **[Financial Dashboard](https://github.com/raffaloffredo/dashboard_financeiro/)**
 * **[Logistic Dashboard](https://github.com/raffaloffredo/dashboard_logistica)**
 * **[Human Resources Dashboard](https://github.com/raffaloffredo/dashboard_rh)**
 * **[Commercial Dashboard](https://github.com/raffaloffredo/dashboard_comercial)**

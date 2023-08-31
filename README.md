@@ -46,6 +46,7 @@ Jupyter Notebook
 
 ## Projects
 ### Machine Learning Techniques
+* **[Churn Prediction](https://github.com/raffaloffredo/churn_prediction)**
 * **[Credit card fraud detection](https://github.com/raffaloffredo/fraud_detection)**
 <br/>
 

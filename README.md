@@ -64,6 +64,7 @@ Jupyter Notebook
 * **[Marketing Dashboard](https://github.com/raffaloffredo/dashboard_marketing)**
 * **[Sales Dashboard](https://github.com/raffaloffredo/dashboard_vendas)**
 * **[Global Sales Dashboard](https://github.com/raffaloffredo/dashboard_vendas_globais/)**
+* **[Accounting Dashboard](https://github.com/raffaloffredo/dashboard_contabilidade)**
 <br/>
 
 

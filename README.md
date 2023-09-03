@@ -57,6 +57,7 @@ Jupyter Notebook
 
 
 ### Power BI
+* **[FAANG Stocks Dashboard](https://github.com/raffaloffredo/dashboard_acoes_faang)**
 * **[Financial Dashboard](https://github.com/raffaloffredo/dashboard_financeiro/)**
 * **[Logistic Dashboard](https://github.com/raffaloffredo/dashboard_logistica)**
 * **[Human Resources Dashboard](https://github.com/raffaloffredo/dashboard_rh)**

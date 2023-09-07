@@ -36,6 +36,7 @@ Jupyter Notebook
 —  Scikit-Learn
 —  Tensor Flow
 —  Keras
+—  PyCaret
 —  Advanced Excel
 —  SQL
 —  Power BI

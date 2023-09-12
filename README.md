@@ -53,12 +53,12 @@ Jupyter Notebook
 
 ### Auto Machine Learning
 * **[Life Insurance Price Prediction](https://github.com/raffaloffredo/life_insurance_price_prediction)**
+<br/>
 
 ### Data Exploring, Cleaning, and Visualization
 * **[An updated study of COVID-19 in Brazil and the world](https://github.com/raffaloffredo/covid_2023)**
 * **[Airbnb Data Analysis for New York City](https://github.com/raffaloffredo/airbnb_new_york)**
 <br/>
-
 
 ### Power BI
 * **[FAANG Stocks Dashboard](https://github.com/raffaloffredo/dashboard_acoes_faang)**

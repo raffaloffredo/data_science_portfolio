@@ -81,12 +81,13 @@ Jupyter Notebook
 * **[5 Organization tools + 1 Extra infallible tip to help you accomplish your goals!](https://www.linkedin.com/pulse/5-organization-tools-1-extra-infallible-tip-help-you-your-loffredo/)**
 * **[7 lessons I learned from the book: The Ascent of Money](https://www.linkedin.com/pulse/7-lessons-i-learned-from-book-ascent-money-raffaela-loffredo/)**
 * **[How to achieve your goals?](https://medium.com/@loffredo.ds/how-to-achieve-your-goals-9e5aa7de8a2d)**
-*  **[Do you know the best way to show your results? Get to know the top 5 ways to present data!](https://www.linkedin.com/pulse/do-you-know-best-way-show-your-results-get-top-5-ways-loffredo/)**
-*  **[_Complete_ Article about COVID-19 project](https://medium.com/@loffredo.ds/data-science-applied-a-covid-19-study-on-brazil-and-the-world-8376407cc672)**
-*  **[_Summarized_ Article about COVID-19 project](https://www.linkedin.com/pulse/updated-study-covid-19-brazil-worldwide-raffaela-loffredo/)**
-*  **[How do banks create money?](https://www.linkedin.com/pulse/how-do-banks-create-money-raffaela-loffredo/)**
-*  **[Construction of machine learning models to predict credit card fraud](https://medium.com/@loffredo.ds/construction-of-machine-learning-models-to-predict-credit-card-fraud-e926fca4229c)**
-*  **[Results obtained with machine learning models to predict credit card fraud](https://www.linkedin.com/pulse/results-obtained-machine-learning-models-predict-credit-loffredo/)**
+* **[Do you know the best way to show your results? Get to know the top 5 ways to present data!](https://www.linkedin.com/pulse/do-you-know-best-way-show-your-results-get-top-5-ways-loffredo/)**
+* **[_Complete_ Article about COVID-19 project](https://medium.com/@loffredo.ds/data-science-applied-a-covid-19-study-on-brazil-and-the-world-8376407cc672)**
+* **[_Summarized_ Article about COVID-19 project](https://www.linkedin.com/pulse/updated-study-covid-19-brazil-worldwide-raffaela-loffredo/)**
+* **[How do banks create money?](https://www.linkedin.com/pulse/how-do-banks-create-money-raffaela-loffredo/)**
+* **[Construction of machine learning models to predict credit card fraud](https://medium.com/@loffredo.ds/construction-of-machine-learning-models-to-predict-credit-card-fraud-e926fca4229c)**
+* **[Results obtained with machine learning models to predict credit card fraud](https://www.linkedin.com/pulse/results-obtained-machine-learning-models-predict-credit-loffredo/)**
+* **[How to use Pandas Profiling and PyCaret to predict life insurance cost prices](https://medium.com/@loffredo.ds/how-to-use-pandas-profiling-and-pycaret-to-predict-life-insurance-cost-prices-7a4ff1623e0f)**
 <br/>
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png">
@@ -104,14 +105,15 @@ Jupyter Notebook
 * **[Crie a sua criptomoeda em menos de 7 minutos!](https://www.linkedin.com/pulse/crie-sua-criptomoeda-em-menos-de-7-minutos-raffaela-loffredo/)**
 * **[O consumo de margarina causa divórcio!](https://medium.com/@loffredo.ds/o-consumo-de-margarina-causa-div%C3%B3rcio-e5c2771f341f)**
 * **[Você sabe a melhor forma de mostrar os seus resultados? Conheça as 5 principais maneiras de apresentar dados!](https://medium.com/@loffredo.ds/você-sabe-a-melhor-forma-de-mostrar-os-seus-resultados-7c2cc09ed499)**
-*  **[Artigo _completo_ do projeto sobre COVID-19](https://medium.com/@loffredo.ds/ci%C3%AAncia-de-dados-aplicada-estudo-sobre-o-covid-19-no-brasil-e-no-mundo-e4a8996a75ab)**
-*  **[Artigo _resumido_ do projeto sobre COVID-19](https://www.linkedin.com/pulse/estudo-atualizado-do-covid-19-brasil-e-nomundo-raffaela-loffredo/)**
-*  **[Como criar um gráfico animado com o Bar Chart Race](https://medium.com/@loffredo.ds/como-criar-um-gr%C3%A1fico-animado-com-o-bar-chart-race-878a0e693246)**
-*  **[Precisa de motivação para estudar? Veja isso!](https://www.linkedin.com/pulse/precisa-de-motiva%25C3%25A7%25C3%25A3o-para-estudar-veja-isso-raffaela-loffredo/)**
-*  **[Canvas de Carreira: um poderoso aliado para atingir seus objetivos profissionais](https://www.linkedin.com/pulse/canvas-de-carreira-um-poderoso-aliado-para-atingir-seus-loffredo/?trackingId=7hs4XJQtSoampdb%2F1pbbsQ%3D%3D)**
-*  **[Como os bancos criam dinheiro?](https://medium.com/@loffredo.ds/como-os-bancos-criam-dinheiro-53acfe4ecd76)**
-*  **[Construção de modelos de machine learning para prever fraude em cartão de crédito](https://medium.com/@loffredo.ds/constru%C3%A7%C3%A3o-de-modelos-de-machine-learning-para-prever-fraude-em-cart%C3%A3o-de-cr%C3%A9dito-fde010b534db)**
-*  **[Resultados obtidos com modelos de machine learning para prever fraude em cartão de crédito](https://www.linkedin.com/pulse/resultados-obtidos-com-modelos-de-machine-learning-para-loffredo/)**
+* **[Artigo _completo_ do projeto sobre COVID-19](https://medium.com/@loffredo.ds/ci%C3%AAncia-de-dados-aplicada-estudo-sobre-o-covid-19-no-brasil-e-no-mundo-e4a8996a75ab)**
+* **[Artigo _resumido_ do projeto sobre COVID-19](https://www.linkedin.com/pulse/estudo-atualizado-do-covid-19-brasil-e-nomundo-raffaela-loffredo/)**
+* **[Como criar um gráfico animado com o Bar Chart Race](https://medium.com/@loffredo.ds/como-criar-um-gr%C3%A1fico-animado-com-o-bar-chart-race-878a0e693246)**
+* **[Precisa de motivação para estudar? Veja isso!](https://www.linkedin.com/pulse/precisa-de-motiva%25C3%25A7%25C3%25A3o-para-estudar-veja-isso-raffaela-loffredo/)**
+* **[Canvas de Carreira: um poderoso aliado para atingir seus objetivos profissionais](https://www.linkedin.com/pulse/canvas-de-carreira-um-poderoso-aliado-para-atingir-seus-loffredo/?trackingId=7hs4XJQtSoampdb%2F1pbbsQ%3D%3D)**
+* **[Como os bancos criam dinheiro?](https://medium.com/@loffredo.ds/como-os-bancos-criam-dinheiro-53acfe4ecd76)**
+* **[Construção de modelos de machine learning para prever fraude em cartão de crédito](https://medium.com/@loffredo.ds/constru%C3%A7%C3%A3o-de-modelos-de-machine-learning-para-prever-fraude-em-cart%C3%A3o-de-cr%C3%A9dito-fde010b534db)**
+* **[Resultados obtidos com modelos de machine learning para prever fraude em cartão de crédito](https://www.linkedin.com/pulse/resultados-obtidos-com-modelos-de-machine-learning-para-loffredo/)**
+* **[Como utilizar Pandas Profiling e PyCaret para prever preços de custo de seguro de vida](https://medium.com/@loffredo.ds/como-utilizar-pandas-profiling-e-pycaret-para-prever-pre%C3%A7os-de-custo-de-seguro-de-vida-8a1183d01048)**
 
 <br/>
 <br/>

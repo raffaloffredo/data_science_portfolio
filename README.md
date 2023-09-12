@@ -51,6 +51,9 @@ Jupyter Notebook
 * **[Credit card fraud detection](https://github.com/raffaloffredo/fraud_detection)**
 <br/>
 
+### Auto Machine Learning
+* **[Life Insurance Price Prediction](https://github.com/raffaloffredo/life_insurance_price_prediction)**
+
 ### Data Exploring, Cleaning, and Visualization
 * **[An updated study of COVID-19 in Brazil and the world](https://github.com/raffaloffredo/covid_2023)**
 * **[Airbnb Data Analysis for New York City](https://github.com/raffaloffredo/airbnb_new_york)**

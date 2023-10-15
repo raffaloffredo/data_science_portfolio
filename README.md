@@ -52,7 +52,8 @@ Jupyter Notebook
 <br/>
 
 ### Auto Machine Learning
-* **[Fetus's Health Classification ](https://github.com/raffaloffredo/fetus_health_classification)**
+* **[Demand Forescasting with Time Series](https://github.com/raffaloffredo/demand_forecasting_with_time_series)**
+* **[Fetus's Health Classification](https://github.com/raffaloffredo/fetus_health_classification)**
 * **[Life Insurance Price Prediction](https://github.com/raffaloffredo/life_insurance_price_prediction)**
 <br/>
 

@@ -2,10 +2,8 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm6M8KtZzEyUaytKqHEOiFcmLim1fsq8ppwLrpKnzdKzagKkUwPAwWu1SWy_vdrhxnJWjTPP7xRil1yDl8btS_moX0h2CpQw0Xfbh82pBhczWKgt5KoBdiiszxaBTrnvRrguy7NB-V1fUbv1KZf695vaqO1E6zq-7GeM1P76rwbBpYsdCzjkMv_RMAUUk/s16000/banner_loffredo.png">
 </p>
 <div>
-  <a href="https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://sites.google.com/view/loffredo/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href = "mailto:raffaloffredo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/loffredo.ds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@loffredo.ds" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
 <br/>
@@ -15,14 +13,6 @@
 _Master in Environmental Management from Positivo University and Bachelor of Law from UniCuritiba_
 
 Throughout my career, I have worked in different types of companies such as NGOs, governments, start-ups, and multinationals. As a result, I have a vast knowledge of business that helps me as a data scientist to more easily identify and solve problems. I also find points that minimize costs and create models that increase revenues, in order to extract meaningful information that assists in decision-making and makes the company more profitable. For this, I always seek to improve my knowledge in business, data analysis, and data visualization to build better analytical models and present them in increasingly sophisticated reports.
-<br/>
-<br/>
-
-**Background** 
-<br/>
-Statistics
-—  Data Visualization
-—  Academic Research
 <br/>
 <br/>
 
@@ -125,4 +115,3 @@ Jupyter Notebook
 * [Website](https://sites.google.com/view/loffredo/)
 * [LinkedIn](https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US)
 * [Medium](https://medium.com/@loffredo.ds)
-* [Instagram](https://www.instagram.com/loffredo.ds/)

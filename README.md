@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_loffredo.png" >
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm6M8KtZzEyUaytKqHEOiFcmLim1fsq8ppwLrpKnzdKzagKkUwPAwWu1SWy_vdrhxnJWjTPP7xRil1yDl8btS_moX0h2CpQw0Xfbh82pBhczWKgt5KoBdiiszxaBTrnvRrguy7NB-V1fUbv1KZf695vaqO1E6zq-7GeM1P76rwbBpYsdCzjkMv_RMAUUk/s16000/banner_loffredo.png">
 </p>
 <div>
   <a href="https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

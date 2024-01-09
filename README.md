@@ -28,6 +28,7 @@ Jupyter Notebook
 —  PyCaret
 —  Advanced Excel
 —  SQL
+—  dbt
 —  Power BI
 —  Tableau
 —  Looker
@@ -35,6 +36,10 @@ Jupyter Notebook
 <br/>
 
 ## Projects
+### Deep Learning
+* **[Fake News Detection with Neural Networks](https://github.com/raffaloffredo/fake_news_detection)**
+<br/>
+
 ### Machine Learning Techniques
 * **[Credit Risk Analysis](https://github.com/raffaloffredo/credit_risk_analysis)**
 * **[Churn Prediction](https://github.com/raffaloffredo/churn_prediction)**

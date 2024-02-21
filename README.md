@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm6M8KtZzEyUaytKqHEOiFcmLim1fsq8ppwLrpKnzdKzagKkUwPAwWu1SWy_vdrhxnJWjTPP7xRil1yDl8btS_moX0h2CpQw0Xfbh82pBhczWKgt5KoBdiiszxaBTrnvRrguy7NB-V1fUbv1KZf695vaqO1E6zq-7GeM1P76rwbBpYsdCzjkMv_RMAUUk/s16000/banner_loffredo.png">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHdjanw2EQ8K9Miox6Hk5BSKBx5BQU6UaFapxLUAU8DVC9tD6FI5mVPUAnV2mQByoS9LcxLQ2phyq5ZlTzg-jExjORXF3dOMBlX3MLJaiJomP406g32QaLd3hZuiSDJd_7bhR_y28xc_heRJ0mLWPEPac_PHgHUgtDYL6B80UaCdR1TPbotcI5JPw-hQ/s16000/LoffredoDS_banner_dbt%20e%20google%20DA.png">
 </p>
 <div>
   <a href="https://sites.google.com/view/loffredo/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>

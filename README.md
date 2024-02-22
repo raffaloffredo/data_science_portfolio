@@ -16,22 +16,59 @@ Throughout my career, I have worked in different types of companies such as NGOs
 <br/>
 <br/>
 
-## Tools
-Jupyter Notebook
+## What do I do
+ETL
+—  Data Extraction
+—  Data Transformation
+—  Data Loading
+—  EDA
+—  Exploratory Data Analysis
+—  Statistics Analysis
+—  Data Manipulation
+—  Data Cleaning 
+—  Data Visualization and Dashboards
+—  Creation and Manipulation of Spreadsheets
+—  Cloud computing
+—  Container management
+—  Orchestration
+—  Versioning control
+<br/>
+<br/>
+
+## Tools I use
+Python
 —  Pandas
 —  Numpy
 —  Matplotlib
 —  Seaborn
+—  Statsmodels
+—  Prophet
+—  Scikitplot
 —  Scikit-Learn
-—  Tensor Flow
+—  TensorFlow
 —  Keras
 —  PyCaret
-—  Advanced Excel
+—  Markdown
 —  SQL
+—  MySQL
+—  Snowflake
+—  PostgreSQL
+—  BigQuery
+—  Dbeaver
 —  dbt
+—  Looker (Google Data Studio)
 —  Power BI
 —  Tableau
-—  Looker
+—  Google Cloud Platform (GCP)
+—  Advanced Excel and Google Sheets
+—  Docker
+—  Airflow
+—  Stich
+—  git
+—  GitHub
+—  Bitbucket
+—  Jupyter Notebook
+—  Google Colab
 <br/>
 <br/>
 

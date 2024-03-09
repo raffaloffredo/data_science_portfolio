@@ -12,7 +12,7 @@
 
 _💡 Transforming data into impactful solutions_
 
-Throughout my career, I have worked in different types of companies such as NGOs, governments, start-ups, and multinationals. As a result, I have a vast knowledge of business that helps me as a data scientist to more easily identify and solve problems. I also find points that minimize costs and create models that increase revenues, in order to extract meaningful information that assists in decision-making and makes the company more profitable. For this, I always seek to improve my knowledge in business, data analysis, and data visualization to build better analytical models and present them in increasingly sophisticated reports.
+I am a communicative, proactive person with a thirst for innovation! I moved to the data area almost 2 years ago as I feel more challenged in unraveling data and transforming it into relevant information that facilitates decision-making. In my career, I worked in companies of different sectors and sizes due to my ease of adaptation. These experiences reflect my multidisciplinary and systemic vision that helps me find quicker and more creative solutions to complex problems. For this reason, I have worked in different roles and data specialties such as Data Analytics Manager, Data Scientist, and Analytics Engineer. reports.
 <br/>
 <br/>
 
@@ -28,6 +28,7 @@ ETL
 —  Data Cleaning 
 —  Data Visualization and Dashboards
 —  Creation and Manipulation of Spreadsheets
+—  Develop Machine-Learning algorithms
 —  Cloud computing
 —  Container management
 —  Orchestration

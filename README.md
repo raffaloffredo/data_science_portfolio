@@ -18,21 +18,27 @@ I am a communicative, proactive person with a thirst for innovation! I moved to 
 
 ## What do I do
 ETL
+—  Databases Manipulation
 —  Data Extraction
 —  Data Transformation
+—  Data Modeling
 —  Data Loading
 —  EDA
 —  Exploratory Data Analysis
 —  Statistics Analysis
 —  Data Manipulation
 —  Data Cleaning 
-—  Data Visualization and Dashboards
+—  Data Visualization (graphs, charts, reports)
+—  Dashboards
+—  Business Intelligence
 —  Creation and Manipulation of Spreadsheets
-—  Develop Machine-Learning algorithms
+—  Develop Machine-Learning algorithms (supervised and unsupervised - classification, regression, decision tree, time series, cluster)
 —  Cloud computing
 —  Container management
 —  Orchestration
 —  Versioning control
+—  On-Chain Data Analysis
+—  A/B Testing
 <br/>
 <br/>
 
@@ -49,9 +55,11 @@ Python
 —  TensorFlow
 —  Keras
 —  PyCaret
-—  Markdown
-—  SQL
+—  Markdown (markup language)
+—  Relational Databases
+—  SQL (Structured Query Language)
 —  MySQL
+—  MongoDB
 —  Snowflake
 —  PostgreSQL
 —  BigQuery

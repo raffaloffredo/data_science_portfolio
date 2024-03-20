@@ -115,6 +115,9 @@ Python
 * **[Accounting Dashboard](https://github.com/raffaloffredo/dashboard_contabilidade)**
 <br/>
 
+### Looker
+* **[Adventure Works](https://lookerstudio.google.com/reporting/6d9f1a49-4f20-43fd-ab41-ca8a790d288b)**
+<br/>
 
 ## Articles
 <img align="center" alt="EN" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-united-states_1f1fa-1f1f8.png">

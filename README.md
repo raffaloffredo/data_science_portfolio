@@ -119,6 +119,10 @@ Python
 * **[Adventure Works](https://lookerstudio.google.com/reporting/6d9f1a49-4f20-43fd-ab41-ca8a790d288b)**
 <br/>
 
+### dbt
+* **[Modern Analytics Stack aplicado à Adventure Works](https://github.com/raffaloffredo/adventure_works_portuguese)**
+* <br/>
+
 ## Articles
 <img align="center" alt="EN" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-united-states_1f1fa-1f1f8.png">
 

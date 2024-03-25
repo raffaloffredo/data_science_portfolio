@@ -164,6 +164,7 @@ Python
 * **[Construção de modelos de machine learning para prever fraude em cartão de crédito](https://medium.com/@loffredo.ds/constru%C3%A7%C3%A3o-de-modelos-de-machine-learning-para-prever-fraude-em-cart%C3%A3o-de-cr%C3%A9dito-fde010b534db)**
 * **[Resultados obtidos com modelos de machine learning para prever fraude em cartão de crédito](https://www.linkedin.com/pulse/resultados-obtidos-com-modelos-de-machine-learning-para-loffredo/)**
 * **[Como utilizar Pandas Profiling e PyCaret para prever preços de custo de seguro de vida](https://medium.com/@loffredo.ds/como-utilizar-pandas-profiling-e-pycaret-para-prever-pre%C3%A7os-de-custo-de-seguro-de-vida-8a1183d01048)**
+* **[Big Data Encontra Blockchain: Uma Revolução Simbiótica no Comércio Eletrônico](https://medium.com/@loffredo.ds/big-data-encontra-blockchain-uma-revolu%C3%A7%C3%A3o-simbi%C3%B3tica-no-com%C3%A9rcio-eletr%C3%B4nico-8923a9b3c553)**
 
 <br/>
 <br/>
